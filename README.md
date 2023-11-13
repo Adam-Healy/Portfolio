@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Adam
-![Cybersecurity](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Adam Healy
 
 My name is Adam from Ireland, and I am currently learning Cybersecurity. I enjoy programming in Python and C++.
 
